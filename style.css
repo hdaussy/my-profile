@@ -98,8 +98,8 @@ h1, h2 {
 	color: rgb(230,230,230);
 }
 
-.list-inline i: hover {
-	color: black;
+.list-inline i:hover {
+	color: blue;
 }
 
 #introduction p {
